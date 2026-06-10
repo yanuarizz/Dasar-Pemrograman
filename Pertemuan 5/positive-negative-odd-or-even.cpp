@@ -20,4 +20,6 @@ int main(){
     else {
         cout << "The number is zero." << endl;
     }
+
+    return 0;
 }
